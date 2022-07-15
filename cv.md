@@ -1,6 +1,6 @@
 # **CV Funt Y.V.**
 
-*e-mail: Slayer_yura@mail.ru; nick-name discord: Yury#4352 ![avatar](d:/учёба/cv1/Аватар.jpg)
+*e-mail: Slayer_yura@mail.ru; nick-name discord: Yury#4352 ![avatar](/d/Учёба/Аватар.jpg)
 
 *I have no experience in the IT field, I am studying at the rs-school for a front-end developer to change my profession. I consider my technical (mathematical) mindset, firmness of purpose, diligence, accuracy to be my strengths
 
