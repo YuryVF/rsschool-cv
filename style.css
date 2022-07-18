@@ -1,0 +1,16 @@
+html, body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin: 0%;
+    padding: 0%;
+}
+table {
+    border-collapse: collapse;
+    }
+    table.border td, table.border th {
+        padding: 14px;
+border: 2px solid #c0c0c0;
+    }
+    table.border th {
+        background: #4682B4;
+    }
